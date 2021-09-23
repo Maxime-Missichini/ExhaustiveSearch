@@ -4,11 +4,13 @@ C naïve exhaustive search designed for education purposes ONLY -> DO NOT use th
 
 ## To-do list
 
-[x]- Functional code with respectable execution time [20/09/2021]
-[x]- Print computation time along with number of passwords tested and state of the search [23/09/2021]
-[]- Add password hash to simulate real case
-[]- Create a graphic interface
-[]- Add CPU parallelisation
-[]- Find a new way to search throught alphanumerical caracters
-[]- Code optimisation 
-[]- Full code comment
+<ol>
+  <li> [x]- Functional code with respectable execution time [20/09/2021] </li>
+  <li> [x]- Print computation time along with number of passwords tested and state of the search [23/09/2021] </li>
+  <li> []- Add password hash to simulate real case </li>
+  <li> []- Create a graphic interface </li>
+  <li> []- Add CPU parallelisation </li>
+  <li> []- Find a new way to search throught alphanumerical caracters </li>
+  <li> []- Code optimisation </li>
+  <li> []- Full code comment </li>
+</ol>
