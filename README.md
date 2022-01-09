@@ -11,4 +11,6 @@ C naïve exhaustive search designed for education purposes ONLY -> DO NOT use th
 - [ ] Add CPU parallelisation
 - [ ] Find a new way to search throught alphanumerical caracters
 - [ ] Code optimisation
-- [ ] Full code comment
+
+# Status
+Dev paused
